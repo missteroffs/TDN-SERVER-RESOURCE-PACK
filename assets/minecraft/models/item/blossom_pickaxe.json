@@ -1,0 +1,23 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/blossom_pickaxe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [95.42, 85.33, -49.52],
+			"translation": [0, 6.25, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [47.75, -90, 0],
+			"translation": [0, 6.25, 0.75]
+		},
+		"fixed": {
+			"rotation": [161.5, -90, -180],
+			"translation": [0, 0, -9.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}

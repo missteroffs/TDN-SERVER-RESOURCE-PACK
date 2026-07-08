@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "xp_storage:xp_book_empty",
+        "model": {
+          "type": "minecraft:model",
+          "model": "xp_storage:item/xp_book_empty"
+        }
+      },
+      {
+        "when": "xp_storage:xp_book",
+        "model": {
+          "type": "minecraft:model",
+          "model": "xp_storage:item/xp_book"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/enchanted_book"
+    }
+  }
+}

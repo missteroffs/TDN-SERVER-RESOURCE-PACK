@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "pokeball:item/pokeball_open"
+  }
+}
