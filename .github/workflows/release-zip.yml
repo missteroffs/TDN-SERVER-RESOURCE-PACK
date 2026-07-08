@@ -2,20 +2,22 @@ name: Auto Release ZIP
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   release:
     runs-on: ubuntu-latest
+
     steps:
-uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-name: Create zip
+      - name: Create ZIP
         run: |
-          zip -r project.zip ./*
+          zip -r project.zip . -x ".git/*"
 
-name: Create / update release
-        uses: softprops/action-gh-release@v1
+      - name: Create or Update Release
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
           name: Latest
