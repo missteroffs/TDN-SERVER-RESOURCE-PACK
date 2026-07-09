@@ -958,5 +958,11 @@
   },
   "ost.lab" : {
     "sounds": ["ost/lab"]
+  },
+  "ost.iloveyouepic" : {
+    "sounds": ["ost/iloveyouepic"]
+  },
+   "ost.ogscule" : {
+    "sounds": ["ost/ogscule"]
   }
 }
