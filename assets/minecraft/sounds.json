@@ -964,5 +964,50 @@
   },
    "ost.ogscule" : {
     "sounds": ["ost/ogscule"]
+  },
+   "sfx.superlaserbuildupsound" : {
+    "sounds": ["sfx/superlaserbuildupsound"]
+  },
+   "sfx.superlaserfire" : {
+    "sounds": ["sfx/superlaserfire"]
+  },
+  "sfx.draedonteleport" : {
+    "sounds": ["sfx/draedonteleport"]
+  },
+  "sfx.singurarity_throw" : {
+    "sounds": ["sfx/singurarity_throw"]
+  },
+  "ost.lab_second_warning" : {
+    "sounds": ["ost/lab_second_warning"]
+  },
+  "ost.neutral01" : {
+    "sounds": ["ost/neutral01"]
+  },
+  "ost.neutral02" : {
+    "sounds": ["ost/neutral02"]
+  },
+  "ost.neutral03" : {
+    "sounds": ["ost/neutral03"]
+  },
+  "ost.calmnight" : {
+    "sounds": ["ost/calmnight"]
+  },
+  "ost.subversion_act" : {
+    "sounds": ["ost/subversion_act"]
+  },
+  "ost.exomechsiren" : {
+    "sounds": ["ost/exomechsiren"]
+  },
+  "ost.exomech_phase2" : {
+    "sounds": ["ost/exomech_phase2"]
+  },
+  "ost.exomech_phase1" : {
+    "sounds": ["ost/exomech_phase1"]
+  },
+  "sfx.electrify" : {
+    "sounds": ["sfx/electrify"]
+  },
+  "sfx.nuclearreaction" : {
+    "sounds": ["sfx/nuclearreaction"]
   }
 }
