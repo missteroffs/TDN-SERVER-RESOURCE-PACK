@@ -16,18 +16,11 @@ jobs:
         run: |
           zip -r project.zip . -x ".git/*"
 
-      - name: Generate SHA1
-        run: |
-          sha1sum project.zip | awk '{print $1}' > project.zip.sha1
-          echo "SHA1: $(cat project.zip.sha1)"
-
       - name: Create or Update Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
           name: Latest
-          files: |
-            project.zip
-            project.zip.sha1
+          files: project.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
