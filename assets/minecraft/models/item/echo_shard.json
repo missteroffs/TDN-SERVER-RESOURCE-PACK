@@ -1,9 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/echo_shard"
-    },
-	"overrides": [
-		{ "predicate": {"custom_model_data": 70001}, "model": "soul_link:item/resonating_soul"}
-	]
-}

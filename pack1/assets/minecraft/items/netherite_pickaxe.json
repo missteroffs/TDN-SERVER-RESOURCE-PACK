@@ -1,0 +1,32 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_pickaxe"
+    },
+    "cases": [
+      {
+        "when": "crystyl_crusher",
+        "model": { "type": "model", "model": "item/crystyl_crusher" }
+      },
+      {
+        "when": "abyssal_warhammer",
+        "model": { "type": "model", "model": "item/abyssal_warhammer" }
+      },
+      {
+        "when": "blossom_pickaxe",
+        "model": { "type": "model", "model": "item/blossom_pickaxe" }
+      },
+      {
+        "when": "shardlight_pickaxe",
+        "model": { "type": "model", "model": "item/shardlight_pickaxe" }
+      },
+      {
+        "when": "upickaxe",
+        "model": { "type": "model", "model": "item/upickaxe" }
+      }    
+   ]
+  }
+}

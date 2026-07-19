@@ -1,0 +1,157 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_sword"
+    },
+    "cases": [
+      {
+        "when": "wrathwing",
+        "model": { "type": "model", "model": "item/wrathwing" }
+      },
+      {
+        "when": "anarchy_blade",
+        "model": { "type": "model", "model": "item/anarchy_blade" }
+      },
+      {
+        "when": "chronomancer_27s_scythe",
+        "model": { "type": "model", "model": "item/chronomancer_27s_scythe" }
+        },
+        {
+        "when": "crystyl_crusher",
+        "model": { "type": "model", "model": "item/crystyl_crusher" }
+        },
+        {
+        "when": "darklight_greatsword",
+        "model": { "type": "model", "model": "item/darklight_greatsword" }
+        },
+        {
+        "when": "death_27s_ascension",
+        "model": { "type": "model", "model": "item/death_27s_ascension" }
+        },
+        {
+        "when": "draconic_destruction",
+        "model": { "type": "model", "model": "item/draconic_destruction" }
+        },
+        {
+        "when": "flarefrost_blade",
+        "model": { "type": "model", "model": "item/flarefrost_blade" }
+        },
+        {
+        "when": "grand_guardian",
+        "model": { "type": "model", "model": "item/grand_guardian" }
+        },
+        {
+        "when": "iridescent_excalibur",
+        "model": { "type": "model", "model": "item/iridescent_excalibur" }
+        },
+        {
+        "when": "hammer_of_might",
+        "model": { "type": "model", "model": "item/hammer_of_might" }
+        },
+        {
+          "when": "aegis_blade",
+          "model": { "type": "model", "model": "item/aegis_blade" }
+        },
+        {
+          "when": "earth",
+          "model": { "type": "model", "model": "item/earth" }
+        },
+        {
+          "when": "newearth",
+          "model": { "type": "model", "model": "item/newearth" }
+        },
+        {
+          "when": "galactus_blade",
+          "model": { "type": "model", "model": "item/galactus_blade" }
+        },
+        {
+          "when": "grand_dad",
+          "model": { "type": "model", "model": "item/grand_dad" }
+        },
+        {
+          "when": "grax",
+          "model": { "type": "model", "model": "item/grax" }
+        },
+        {
+          "when": "greatsword_of_judgement",
+          "model": { "type": "model", "model": "item/greatsword_of_judgement" }
+        },
+        {
+          "when": "greentide",
+          "model": { "type": "model", "model": "item/greentide" }
+        },
+        {
+          "when": "hellkite",
+          "model": { "type": "model", "model": "item/hellkite" }
+        },
+        {
+          "when": "maw_of_infinity",
+          "model": { "type": "model", "model": "item/maw_of_infinity" }
+        },
+        {
+          "when": "stellar_striker",
+          "model": { "type": "model", "model": "item/stellar_striker" }
+        },
+        {
+          "when": "the_mutilator",
+          "model": { "type": "model", "model": "item/the_mutilator" }
+        },
+        {
+          "when": "void_edge",
+          "model": { "type": "model", "model": "item/void_edge" }
+        },
+        {
+          "when": "wind_blade",
+          "model": { "type": "model", "model": "item/wind_blade" }
+        },
+        {
+          "when": "ataraxia",
+          "model": { "type": "model", "model": "item/ataraxia" }
+        },
+        {
+          "when": "durandal",
+          "model": { "type": "model", "model": "item/dsword" }
+        },
+        {
+          "when": "twilight",
+          "model": { "type": "model", "model": "item/twilight" }
+        },
+        {
+          "when": "ethernal",
+          "model": { "type": "model", "model": "item/ethernal" }
+        },
+        {
+          "when": "galaxia",
+          "model": { "type": "model", "model": "item/galaxia" }
+        },
+        {
+          "when": "swordsplosion",
+          "model": { "type": "model", "model": "item/swordsplosion" }
+        },
+        {
+          "when": "stellarstriker",
+          "model": { "type": "model", "model": "item/stellarstriker" }
+        },
+        {
+          "when": "thelastmourning",
+          "model": { "type": "model", "model": "item/thelastmourning" }
+        },
+        {
+          "when": "violence",
+          "model": { "type": "model", "model": "item/violence" }
+        },
+        {
+          "when": "murasama",
+          "model": { "type": "model", "model": "item/murasama"}
+        },
+	{
+        "when": "slime",
+        "model": { "type": "model", "model": "item/slimesword" }
+      }
+
+     ]
+  }
+}

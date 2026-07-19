@@ -1,0 +1,44 @@
+﻿{
+    "ost.entrypoint":  {
+        "sounds":  ["ost/entrypoint"]
+    },
+    "ost.thegrandfinale":  {
+        "sounds":  ["ost/thegrandfinale"]
+    },
+    "worldboss.blackslience":  {
+        "sounds":  ["worldboss/blackslience"]
+    },
+    "ost.gems":  {
+      "sounds":  ["ost/gems"]
+    },
+    "ost.trialiv":  {
+     "sounds":  ["ost/trialiv"]
+    },
+    "ost.trialii":  {
+     "sounds":  ["ost/trialii"]
+    },
+    "ost.trialiii":  {
+     "sounds":  ["ost/trialiii"]
+    },
+    "ost.bloodsonata":  {
+      "sounds":  ["ost/bloodsonata"]
+    },
+    "ost.seraphim":  {
+       "sounds":  ["ost/seraphim"]
+    },
+    "domain.safe":  {
+     "sounds":  ["domain/safe"]
+    },
+    "ost.atonement":  {
+     "sounds":  ["ost/atonement"]
+    },
+    "ost.neutral02":  {
+     "sounds":  ["ost/neutral02"]
+    },
+    "ost.neutral03":  {
+     "sounds":  ["ost/neutral03"]
+    },
+    "ost.subversion_act":  {
+        "sounds":  ["ost/subversion_act"]
+    }
+}

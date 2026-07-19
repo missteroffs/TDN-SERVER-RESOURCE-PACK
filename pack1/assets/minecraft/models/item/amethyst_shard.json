@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/amethyst_shard"
+    },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 70001}, "model": "soul_link:item/weak_resonating_soul"}
+	]
+}

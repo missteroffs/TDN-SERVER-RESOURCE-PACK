@@ -12,15 +12,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Create ZIP
+      - name: Create ZIPs
         run: |
-          zip -r project.zip . -x ".git/*"
+          zip -r derp1.zip pack1/
+          zip -r derp2.zip pack2/
 
       - name: Create or Update Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
           name: Latest
-          files: project.zip
+          files: |
+            derp1.zip
+            derp2.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/mace"
+    },
+    "cases": [
+      {
+        "when": "hammer_of_might",
+        "model": { "type": "model", "model": "item/hammer_of_might" }
+      },
+      {
+        "when": "newhammer",
+        "model": { "type": "model", "model": "item/newhammer" }
+      }
+    ]
+  }
+}
