@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_pickaxe"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 70001}, "model": "hephaestools:item/hammer/golden"},
+		{ "predicate": {"custom_model_data": 70002}, "model": "hephaestools:item/ore_pickaxe/golden"}
+	]
+}

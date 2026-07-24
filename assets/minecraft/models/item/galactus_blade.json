@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/galactus_blade"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [95.42, 85.33, -49.52],
+			"translation": [2, 16.25, 0.75],
+			"scale": [2, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [47.75, -90, 0],
+			"translation": [0, 16.5, 0.75],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [40, 90, 0],
+			"translation": [3.75, 4.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [40, -90, 0],
+			"translation": [3.75, 4.25, 0]
+		},
+		"head": {
+			"rotation": [0, 0, -180],
+			"translation": [5.5, -12.75, 3.75],
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"rotation": [44.75, -90, 0],
+			"translation": [0, 2.5, -21.5],
+			"scale": [4, 4, 3]
+		}
+	}
+}

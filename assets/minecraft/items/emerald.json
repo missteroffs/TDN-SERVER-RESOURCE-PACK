@@ -1,0 +1,21 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": {
+          "text": "Money",
+          "italic": false,
+          "color": "dark_green"
+        },
+        "model": { "type": "minecraft:model", "model": "minecraft:item/money" }
+	  }
+    ],
+    "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/emerald"
+    }
+  }
+}
