@@ -806,9 +806,6 @@
   "ost.tosleep" : {
     "sounds": ["ost/tosleep"]
   },
-  "ost.dragpath" : {
-    "sounds": ["ost/dragpath"]
-  },
   "sfx.earringing": {
     "sounds": ["sfx/earringing"]
   },
@@ -905,8 +902,8 @@
   "ost.dontworry": {
     "sounds": ["ost/dontworry"]
   },
-  "ost.atonement": {
-    "sounds": ["ost/atonement"]
+  "ost.daily_life": {
+    "sounds": ["ost/daily_life"]
   },
   "sfx.laserbeam": {
     "sounds": ["sfx/laserbeam"]
@@ -983,12 +980,6 @@
   "ost.neutral01" : {
     "sounds": ["ost/neutral01"]
   },
-  "ost.neutral02" : {
-    "sounds": ["ost/neutral02"]
-  },
-  "ost.neutral03" : {
-    "sounds": ["ost/neutral03"]
-  },
   "ost.calmnight" : {
     "sounds": ["ost/calmnight"]
   },
@@ -998,16 +989,25 @@
   "ost.exomechsiren" : {
     "sounds": ["ost/exomechsiren"]
   },
-  "ost.exomech_phase2" : {
-    "sounds": ["ost/exomech_phase2"]
-  },
-  "ost.exomech_phase1" : {
-    "sounds": ["ost/exomech_phase1"]
-  },
   "sfx.electrify" : {
     "sounds": ["sfx/electrify"]
   },
   "sfx.nuclearreaction" : {
     "sounds": ["sfx/nuclearreaction"]
+  },
+  "ost.echo" : {
+    "sounds": ["ost/echo"]
+  },
+  "ost.omoikaze" : {
+    "sounds": ["ost/omoikaze"]
+  },
+  "sfx.namelessdispelsstatic" : {
+    "sounds": ["sfx/namelessdispelsstatic"]
+  },
+  "sfx.namelessopensvortex" : {
+    "sounds": ["sfx/namelessopensvortex"]
+  },
+   "sfx.lotusofcreationuse" : {
+    "sounds": ["sfx/lotusofcreationuse"]
   }
 }
