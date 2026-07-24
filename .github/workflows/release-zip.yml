@@ -8,9 +8,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: List files (debug)
+        run: ls -la
+
       - name: Create zip
         run: |
-          zip -r project.zip ./* -x ".git/*" ".github/*" ".gitattributes"
+          zip -r project.zip . -x ".git/*" ".github/*" ".gitattributes" "project.zip"
 
       - name: Create / update release
         uses: softprops/action-gh-release@v1
