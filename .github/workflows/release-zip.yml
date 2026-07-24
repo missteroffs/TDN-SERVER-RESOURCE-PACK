@@ -1,5 +1,3 @@
-release-zip.yml -
-``
 name: Auto Release ZIP
 
 on:
@@ -24,4 +22,3 @@ name: Create / update release
           files: project.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-``
