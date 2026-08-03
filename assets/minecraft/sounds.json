@@ -869,8 +869,8 @@
    "dreamscape.bathroom": {
     "sounds": ["dreamscape/bathroom"]
   },
-   "ost.thevoid_alt": {
-    "sounds": ["ost/thevoid_alt"]
+   "ost.atonement": {
+    "sounds": ["ost/atonement"]
   },
    "sfx.atomic": {
     "sounds": ["sfx/iamatomic"]
@@ -1009,5 +1009,35 @@
   },
    "sfx.lotusofcreationuse" : {
     "sounds": ["sfx/lotusofcreationuse"]
+  },
+   "ost.shucks_rage" : {
+    "sounds": ["ost/shucks_rage"]
+  },
+   "ost.newdays" : {
+    "sounds": ["ost/newdays"]
+  },
+  "ost.styx" : {
+    "sounds": ["ost/styx"]
+  },
+  "meme.lobotomy" : {
+    "sounds": ["meme/lobotomy"]
+  },
+  "meme.fahh" : {
+    "sounds": ["meme/fahh"]
+  },
+  "meme.bruh" : {
+    "sounds": ["meme/bruh"]
+  },
+  "meme.frog_laugh" : {
+    "sounds": ["meme/frog_laugh"]
+  },
+  "meme.kys" : {
+    "sounds": ["meme/kys"]
+  },
+  "meme.miss_kys" : {
+    "sounds": ["meme/miss_kys"]
+  },
+   "meme.no_no_wait" : {
+    "sounds": ["meme/no_no_wait"]
   }
 }
