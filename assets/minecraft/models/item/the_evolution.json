@@ -3,6 +3,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/chaos_stone"
+		"layer0": "item/the_evolution"
 	}
 }

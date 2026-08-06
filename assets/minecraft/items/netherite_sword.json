@@ -147,11 +147,18 @@
           "when": "murasama",
           "model": { "type": "model", "model": "item/murasama"}
         },
-	{
+	      {
         "when": "slime",
         "model": { "type": "model", "model": "item/slimesword" }
-      }
-
+        },
+        {
+        "when": "the_exo_splitter",
+        "model": { "type": "model", "model": "item/the_exo_splitter" }
+        },
+        {
+        "when": "singurarity",
+        "model": { "type": "model", "model": "item/singurarity" }
+        }
      ]
   }
 }

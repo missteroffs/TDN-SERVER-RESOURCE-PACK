@@ -1040,6 +1040,18 @@
       {
         "when": "universesplitter",
         "model": {"type": "model", "model": "item/universesplitter"}
+      },
+      {
+        "when": "the_evolution",
+        "model": {"type": "model", "model": "item/the_evolution"}
+      },
+      {
+        "when": "the_transformer",
+        "model": {"type": "model", "model": "item/the_transformer"}
+      },
+      {
+        "when": "the_concoction",
+        "model": {"type": "model", "model": "item/the_concoction"}
       }
      ]
   }
