@@ -977,8 +977,8 @@
   "ost.lab_second_warning" : {
     "sounds": ["ost/lab_second_warning"]
   },
-  "ost.neutral01" : {
-    "sounds": ["ost/neutral01"]
+  "ost.voidstar" : {
+    "sounds": ["ost/voidstar"]
   },
   "ost.calmnight" : {
     "sounds": ["ost/calmnight"]
