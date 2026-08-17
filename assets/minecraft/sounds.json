@@ -1049,7 +1049,7 @@
   "ost.all_my_days" : {
     "sounds": ["ost/all_my_days"]
   },
-  "ost.7weeks_3days" : {
-    "sounds": ["ost/7weeks_3days"]
+  "dreamscape.7weeks_3days" : {
+    "sounds": ["dreamscape/7weeks_3days"]
   }
 }
