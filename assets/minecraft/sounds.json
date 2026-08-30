@@ -917,9 +917,6 @@
   "ost.theredmist": {
     "sounds": ["ost/theredmist"]
   },
-  "ost.breaktrough": {
-    "sounds": ["ost/breaktrough"]
-  },
   "ost.firstclassmage": {
     "sounds": ["ost/firstclassmage"]
   },
@@ -986,9 +983,6 @@
   "ost.subversion_act" : {
     "sounds": ["ost/subversion_act"]
   },
-  "ost.exomechsiren" : {
-    "sounds": ["ost/exomechsiren"]
-  },
   "sfx.electrify" : {
     "sounds": ["sfx/electrify"]
   },
@@ -1051,5 +1045,14 @@
   },
   "dreamscape.7weeks_3days" : {
     "sounds": ["dreamscape/7weeks_3days"]
+  },
+  "ost.shrine" : {
+    "sounds": ["ost/shrine"]
+  },
+  "ost.summer" : {
+    "sounds": ["ost/summer"]
+  },
+  "ost.summer1" : {
+    "sounds": ["ost/summer1"]
   }
 }
