@@ -492,11 +492,6 @@
       "ost/theend"
     ]
   },
-  "ost.equal": {
-    "sounds": [
-      "ost/equal"
-    ]
-  },
   "shimmer.humloop": {
     "sounds": [
       "shimmer/humloop"
@@ -1049,10 +1044,16 @@
   "ost.shrine" : {
     "sounds": ["ost/shrine"]
   },
-  "ost.summer" : {
-    "sounds": ["ost/summer"]
+  "ost.we_were_friends" : {
+    "sounds": ["ost/we_were_friends"]
   },
-  "ost.summer1" : {
-    "sounds": ["ost/summer1"]
+  "ost.before_spring_ends" : {
+    "sounds": ["ost/before_spring_ends"]
+  },
+  "ost.finds_the_truth" : {
+    "sounds": ["ost/finds_the_truth"]
+  },
+  "ost.legacy_ascention" : {
+    "sounds": ["ost/legacy_ascention"]
   }
 }
