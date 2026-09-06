@@ -1052,6 +1052,98 @@
       {
         "when": "the_concoction",
         "model": {"type": "model", "model": "item/the_concoction"}
+      },
+      {
+      "when": "bloody_mary",
+      "model": {"type": "model", "model": "item/bloody_mary"}
+      },
+      {
+        "when": "caribbean_rum",
+        "model": {"type": "model", "model": "item/caribbean_rum"}
+      },
+      {
+        "when": "cinnamon_roll",
+        "model": {"type": "model", "model": "item/cinnamon_roll"}
+      },
+      {
+        "when": "everclear",
+        "model": {"type": "model", "model": "item/everclear"}
+      },
+      {
+        "when": "evergreen_gin",
+        "model": {"type": "model", "model": "item/evergreen_gin"}
+      },
+      {
+        "when": "fireball",
+        "model": {"type": "model", "model": "item/fireball"}
+      },
+      {
+        "when": "grape_beer",
+        "model": {"type": "model", "model": "item/grape_beer"}
+      },
+      {
+        "when": "manhattan",
+        "model": {"type": "model", "model": "item/manhattan"}
+      },
+      {
+        "when": "margarita",
+        "model": {"type": "model", "model": "item/margarita"}
+      },
+      {
+        "when": "moonshine",
+        "model": {"type": "model", "model": "item/moonshine"}
+      },
+      {
+        "when": "moscow_mule",
+        "model": {"type": "model", "model": "item/moscow_mule"}
+      },
+      {
+        "when": "odd_mushroom",
+        "model": {"type": "model", "model": "item/odd_mushroom"}
+      },
+      {
+        "when": "old_fashioned",
+        "model": {"type": "model", "model": "item/old_fashioned"}
+      },
+      {
+        "when": "purple_haze",
+        "model": {"type": "model", "model": "item/purple_haze"}
+      },
+      {
+        "when": "red_wine",
+        "model": {"type": "model", "model": "item/red_wine"}
+      },
+      {
+        "when": "rum",
+        "model": {"type": "model", "model": "item/rum"}
+      },
+      {
+        "when": "screwdriver",
+        "model": {"type": "model", "model": "item/screwdriver"}
+      },
+      {
+        "when": "star_beam_rye",
+        "model": {"type": "model", "model": "item/star_beam_rye"}
+      },
+      {
+        "when": "tequila",
+        "model": {"type": "model", "model": "item/tequila"}
+      },
+      {
+        "when": "tequila_sunrise",
+        "model": {"type": "model", "model": "item/tequila_sunrise"}
+      },
+      {
+        "when": "vodka",
+        "model": {"type": "model", "model": "item/vodka"}
+      },
+      {
+        "when": "whiskey",
+        "model": {"type": "model", "model": "item/whiskey"}
+      },
+      {
+        "when": "white_wine",
+        "model": {"type": "model", "model": "item/white_wine"}
       }
      ]
   }
