@@ -999,8 +999,8 @@
    "sfx.lotusofcreationuse" : {
     "sounds": ["sfx/lotusofcreationuse"]
   },
-   "ost.shucks_rage" : {
-    "sounds": ["ost/shucks_rage"]
+   "ost.shucks_rage_full" : {
+    "sounds": ["ost/shucks_rage_full"]
   },
    "ost.newdays" : {
     "sounds": ["ost/newdays"]
