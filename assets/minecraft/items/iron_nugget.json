@@ -1054,32 +1054,32 @@
         "model": {"type": "model", "model": "item/the_concoction"}
       },
       {
-      "when": "bloody_mary",
-      "model": {"type": "model", "model": "item/bloody_mary"}
+      "when": "bloodymary",
+      "model": {"type": "model", "model": "item/bloodymary"}
       },
       {
-        "when": "caribbean_rum",
-        "model": {"type": "model", "model": "item/caribbean_rum"}
+        "when": "caribbeanrum",
+        "model": {"type": "model", "model": "item/caribbeanrum"}
       },
       {
-        "when": "cinnamon_roll",
-        "model": {"type": "model", "model": "item/cinnamon_roll"}
+        "when": "cinnamonroll",
+        "model": {"type": "model", "model": "item/cinnamonroll"}
       },
       {
         "when": "everclear",
         "model": {"type": "model", "model": "item/everclear"}
       },
       {
-        "when": "evergreen_gin",
-        "model": {"type": "model", "model": "item/evergreen_gin"}
+        "when": "evergreengin",
+        "model": {"type": "model", "model": "item/evergreengin"}
       },
       {
         "when": "fireball",
         "model": {"type": "model", "model": "item/fireball"}
       },
       {
-        "when": "grape_beer",
-        "model": {"type": "model", "model": "item/grape_beer"}
+        "when": "grapebeer",
+        "model": {"type": "model", "model": "item/grapebeer"}
       },
       {
         "when": "manhattan",
@@ -1094,24 +1094,24 @@
         "model": {"type": "model", "model": "item/moonshine"}
       },
       {
-        "when": "moscow_mule",
-        "model": {"type": "model", "model": "item/moscow_mule"}
+        "when": "moscowmule",
+        "model": {"type": "model", "model": "item/moscowmule"}
       },
       {
-        "when": "odd_mushroom",
-        "model": {"type": "model", "model": "item/odd_mushroom"}
+        "when": "oddmushroom",
+        "model": {"type": "model", "model": "item/oddmushroom"}
       },
       {
-        "when": "old_fashioned",
-        "model": {"type": "model", "model": "item/old_fashioned"}
+        "when": "oldfashioned",
+        "model": {"type": "model", "model": "item/oldfashioned"}
       },
       {
-        "when": "purple_haze",
-        "model": {"type": "model", "model": "item/purple_haze"}
+        "when": "purplehaze",
+        "model": {"type": "model", "model": "item/purplehaze"}
       },
       {
-        "when": "red_wine",
-        "model": {"type": "model", "model": "item/red_wine"}
+        "when": "redwine",
+        "model": {"type": "model", "model": "item/redwine"}
       },
       {
         "when": "rum",
@@ -1122,16 +1122,16 @@
         "model": {"type": "model", "model": "item/screwdriver"}
       },
       {
-        "when": "star_beam_rye",
-        "model": {"type": "model", "model": "item/star_beam_rye"}
+        "when": "starbeamrye",
+        "model": {"type": "model", "model": "item/starbeamrye"}
       },
       {
         "when": "tequila",
         "model": {"type": "model", "model": "item/tequila"}
       },
       {
-        "when": "tequila_sunrise",
-        "model": {"type": "model", "model": "item/tequila_sunrise"}
+        "when": "tequilasunrise",
+        "model": {"type": "model", "model": "item/tequilasunrise"}
       },
       {
         "when": "vodka",
@@ -1142,8 +1142,8 @@
         "model": {"type": "model", "model": "item/whiskey"}
       },
       {
-        "when": "white_wine",
-        "model": {"type": "model", "model": "item/white_wine"}
+        "when": "whitewine",
+        "model": {"type": "model", "model": "item/whitewine"}
       }
      ]
   }
