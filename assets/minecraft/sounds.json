@@ -783,8 +783,8 @@
   "ost.abyss": {
     "sounds": ["ost/abyss"]
   },
-  "ost.thevoid": {
-    "sounds": ["ost/thevoid"]
+  "ost.honored_one": {
+    "sounds": ["ost/honored_one"]
   },
   "ost.interstellar": {
     "sounds": ["ost/interstellar"]
@@ -1035,8 +1035,8 @@
   "ost.solace" : {
     "sounds": ["ost/solace"]
   },
-  "ost.all_my_days" : {
-    "sounds": ["ost/all_my_days"]
+  "ost.toji" : {
+    "sounds": ["ost/toji"]
   },
   "dreamscape.7weeks_3days" : {
     "sounds": ["dreamscape/7weeks_3days"]
@@ -1053,7 +1053,13 @@
   "ost.finds_the_truth" : {
     "sounds": ["ost/finds_the_truth"]
   },
-  "ost.legacy_ascention" : {
-    "sounds": ["ost/legacy_ascention"]
+  "ost.delirious" : {
+    "sounds": ["ost/delirious"]
+  },
+  "meme.flashbang" : {
+    "sounds": ["meme/flashbang"]
+  },
+  "ost.sea" : {
+    "sounds": ["ost/sea"]
   }
 }
