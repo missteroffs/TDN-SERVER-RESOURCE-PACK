@@ -1400,5 +1400,8 @@
   },
   "namelessdeity.wingflap4": {
     "sounds": ["namelessdeity/wingflap4"]
+  },
+  "ost.namelessdeity": {
+    "sounds": ["ost/namelessdeity"]
   }
 }
