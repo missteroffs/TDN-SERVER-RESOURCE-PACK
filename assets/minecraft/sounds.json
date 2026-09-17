@@ -783,9 +783,6 @@
   "ost.abyss": {
     "sounds": ["ost/abyss"]
   },
-  "ost.honored_one": {
-    "sounds": ["ost/honored_one"]
-  },
   "ost.interstellar": {
     "sounds": ["ost/interstellar"]
   },
@@ -1029,9 +1026,6 @@
    "meme.no_no_wait" : {
     "sounds": ["meme/no_no_wait"]
   },
-  "ost.adventure_time_2" : {
-    "sounds": ["ost/adventure_time_2"]
-  },
   "ost.solace" : {
     "sounds": ["ost/solace"]
   },
@@ -1046,9 +1040,6 @@
   },
   "ost.we_were_friends" : {
     "sounds": ["ost/we_were_friends"]
-  },
-  "ost.before_spring_ends" : {
-    "sounds": ["ost/before_spring_ends"]
   },
   "ost.finds_the_truth" : {
     "sounds": ["ost/finds_the_truth"]
