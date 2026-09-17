@@ -1061,5 +1061,353 @@
   },
   "ost.sea" : {
     "sounds": ["ost/sea"]
+  },
+  "namelessdeity.appear": {
+  "sounds": ["namelessdeity/appear"]
+  },
+  "namelessdeity.bigsupernova": {
+    "sounds": ["namelessdeity/bigsupernova"]
+  },
+  "namelessdeity.bossrushpulse": {
+    "sounds": ["namelessdeity/bossrushpulse"]
+  },
+  "namelessdeity.chantloop1": {
+    "sounds": ["namelessdeity/chantloop1"]
+  },
+  "namelessdeity.chantloop2": {
+    "sounds": ["namelessdeity/chantloop2"]
+  },
+  "namelessdeity.chuckle": {
+    "sounds": ["namelessdeity/chuckle"]
+  },
+  "namelessdeity.clockstrike": {
+    "sounds": ["namelessdeity/clockstrike"]
+  },
+  "namelessdeity.clocktick": {
+    "sounds": ["namelessdeity/clocktick"]
+  },
+  "namelessdeity.clocktickreversed": {
+    "sounds": ["namelessdeity/clocktickreversed"]
+  },
+  "namelessdeity.codelightninggraze1": {
+    "sounds": ["namelessdeity/codelightninggraze1"]
+  },
+  "namelessdeity.codelightninggraze2": {
+    "sounds": ["namelessdeity/codelightninggraze2"]
+  },
+  "namelessdeity.codelightninggraze3": {
+    "sounds": ["namelessdeity/codelightninggraze3"]
+  },
+  "namelessdeity.codelightninggraze4": {
+    "sounds": ["namelessdeity/codelightninggraze4"]
+  },
+  "namelessdeity.cosmiclaserchargeup": {
+    "sounds": ["namelessdeity/cosmiclaserchargeup"]
+  },
+  "namelessdeity.cosmiclaserloop": {
+    "sounds": ["namelessdeity/cosmiclaserloop"]
+  },
+  "namelessdeity.cosmiclaserobliteration": {
+    "sounds": ["namelessdeity/cosmiclaserobliteration"]
+  },
+  "namelessdeity.cosmiclaserstart": {
+    "sounds": ["namelessdeity/cosmiclaserstart"]
+  },
+  "namelessdeity.createcreditslotus": {
+    "sounds": ["namelessdeity/createcreditslotus"]
+  },
+  "namelessdeity.daggerburst": {
+    "sounds": ["namelessdeity/daggerburst"]
+  },
+  "namelessdeity.daggergraze1": {
+    "sounds": ["namelessdeity/daggergraze1"]
+  },
+  "namelessdeity.daggergraze2": {
+    "sounds": ["namelessdeity/daggergraze2"]
+  },
+  "namelessdeity.daggergrazeecho1": {
+    "sounds": ["namelessdeity/daggergrazeecho1"]
+  },
+  "namelessdeity.daggergrazeecho2": {
+    "sounds": ["namelessdeity/daggergrazeecho2"]
+  },
+  "namelessdeity.donotvocals1": {
+    "sounds": ["namelessdeity/donotvocals1"]
+  },
+  "namelessdeity.donotvocals2": {
+    "sounds": ["namelessdeity/donotvocals2"]
+  },
+  "namelessdeity.dreamcatcherambienceloop": {
+    "sounds": ["namelessdeity/dreamcatcherambienceloop"]
+  },
+  "namelessdeity.eyeroll": {
+    "sounds": ["namelessdeity/eyeroll"]
+  },
+  "namelessdeity.fasthandmovement": {
+    "sounds": ["namelessdeity/fasthandmovement"]
+  },
+  "namelessdeity.featherappear1": {
+    "sounds": ["namelessdeity/featherappear1"]
+  },
+  "namelessdeity.featherappear2": {
+    "sounds": ["namelessdeity/featherappear2"]
+  },
+  "namelessdeity.featherappear3": {
+    "sounds": ["namelessdeity/featherappear3"]
+  },
+  "namelessdeity.featherdisappear1": {
+    "sounds": ["namelessdeity/featherdisappear1"]
+  },
+  "namelessdeity.featherdisappear2": {
+    "sounds": ["namelessdeity/featherdisappear2"]
+  },
+  "namelessdeity.featherdisappear3": {
+    "sounds": ["namelessdeity/featherdisappear3"]
+  },
+  "namelessdeity.featherdisappear4": {
+    "sounds": ["namelessdeity/featherdisappear4"]
+  },
+  "namelessdeity.featherpredisappear1": {
+    "sounds": ["namelessdeity/featherpredisappear1"]
+  },
+  "namelessdeity.featherpredisappear2": {
+    "sounds": ["namelessdeity/featherpredisappear2"]
+  },
+  "namelessdeity.featherpredisappear3": {
+    "sounds": ["namelessdeity/featherpredisappear3"]
+  },
+  "namelessdeity.featherpredisappear4": {
+    "sounds": ["namelessdeity/featherpredisappear4"]
+  },
+  "namelessdeity.fingersnap": {
+    "sounds": ["namelessdeity/fingersnap"]
+  },
+  "namelessdeity.fuckyoustupidrippers": {
+    "sounds": ["namelessdeity/fuckyoustupidrippers"]
+  },
+  "namelessdeity.galaxyfallglitch1": {
+    "sounds": ["namelessdeity/galaxyfallglitch1"]
+  },
+  "namelessdeity.galaxyfallglitch2": {
+    "sounds": ["namelessdeity/galaxyfallglitch2"]
+  },
+  "namelessdeity.galaxyfallglitch3": {
+    "sounds": ["namelessdeity/galaxyfallglitch3"]
+  },
+  "namelessdeity.galaxyfallglitch4": {
+    "sounds": ["namelessdeity/galaxyfallglitch4"]
+  },
+  "namelessdeity.galaxyfallglitch5": {
+    "sounds": ["namelessdeity/galaxyfallglitch5"]
+  },
+  "namelessdeity.galaxyfallglitch6": {
+    "sounds": ["namelessdeity/galaxyfallglitch6"]
+  },
+  "namelessdeity.galaxyimpact1": {
+    "sounds": ["namelessdeity/galaxyimpact1"]
+  },
+  "namelessdeity.galaxyimpact2": {
+    "sounds": ["namelessdeity/galaxyimpact2"]
+  },
+  "namelessdeity.galaxyimpact3": {
+    "sounds": ["namelessdeity/galaxyimpact3"]
+  },
+  "namelessdeity.galaxyimpact4": {
+    "sounds": ["namelessdeity/galaxyimpact4"]
+  },
+  "namelessdeity.galaxytelegraph": {
+    "sounds": ["namelessdeity/galaxytelegraph"]
+  },
+  "namelessdeity.gamebreak": {
+    "sounds": ["namelessdeity/gamebreak"]
+  },
+  "namelessdeity.genericburst": {
+    "sounds": ["namelessdeity/genericburst"]
+  },
+  "namelessdeity.heartbeat": {
+    "sounds": ["namelessdeity/heartbeat"]
+  },
+  "namelessdeity.humloop": {
+    "sounds": ["namelessdeity/humloop"]
+  },
+  "namelessdeity.introdrone": {
+    "sounds": ["namelessdeity/introdrone"]
+  },
+  "namelessdeity.introscreenslice": {
+    "sounds": ["namelessdeity/introscreenslice"]
+  },
+  "namelessdeity.introsuspensebuild": {
+    "sounds": ["namelessdeity/introsuspensebuild"]
+  },
+  "namelessdeity.jermaimkillingyou": {
+    "sounds": ["namelessdeity/jermaimkillingyou"]
+  },
+  "namelessdeity.lowqualitygunshootsound": {
+    "sounds": ["namelessdeity/lowqualitygunshootsound"]
+  },
+  "namelessdeity.momentofcreation": {
+    "sounds": ["namelessdeity/momentofcreation"]
+  },
+  "namelessdeity.mumble1": {
+    "sounds": ["namelessdeity/mumble1"]
+  },
+  "namelessdeity.mumble2": {
+    "sounds": ["namelessdeity/mumble2"]
+  },
+  "namelessdeity.mumble3": {
+    "sounds": ["namelessdeity/mumble3"]
+  },
+  "namelessdeity.mumble4": {
+    "sounds": ["namelessdeity/mumble4"]
+  },
+  "namelessdeity.mumble5": {
+    "sounds": ["namelessdeity/mumble5"]
+  },
+  "namelessdeity.namelessdeityadrenalinefail": {
+    "sounds": ["namelessdeity/namelessdeityadrenalinefail"]
+  },
+  "namelessdeity.namelessdeityragefail": {
+    "sounds": ["namelessdeity/namelessdeityragefail"]
+  },
+  "namelessdeity.notactuallyaneaglesound": {
+    "sounds": ["namelessdeity/notactuallyaneaglesound"]
+  },
+  "namelessdeity.phase3transition": {
+    "sounds": ["namelessdeity/phase3transition"]
+  },
+  "namelessdeity.playerslicefemale": {
+    "sounds": ["namelessdeity/playerslicefemale"]
+  },
+  "namelessdeity.playerslicemale": {
+    "sounds": ["namelessdeity/playerslicemale"]
+  },
+  "namelessdeity.portallasershoot": {
+    "sounds": ["namelessdeity/portallasershoot"]
+  },
+  "namelessdeity.quasarloop": {
+    "sounds": ["namelessdeity/quasarloop"]
+  },
+  "namelessdeity.quasarloopstart": {
+    "sounds": ["namelessdeity/quasarloopstart"]
+  },
+  "namelessdeity.realitycrack1": {
+    "sounds": ["namelessdeity/realitycrack1"]
+  },
+  "namelessdeity.realitycrack2": {
+    "sounds": ["namelessdeity/realitycrack2"]
+  },
+  "namelessdeity.realitycrack3": {
+    "sounds": ["namelessdeity/realitycrack3"]
+  },
+  "namelessdeity.realitytear": {
+    "sounds": ["namelessdeity/realitytear"]
+  },
+  "namelessdeity.realitytearpunch1": {
+    "sounds": ["namelessdeity/realitytearpunch1"]
+  },
+  "namelessdeity.realitytearpunch2": {
+    "sounds": ["namelessdeity/realitytearpunch2"]
+  },
+  "namelessdeity.realitytearpunch3": {
+    "sounds": ["namelessdeity/realitytearpunch3"]
+  },
+  "namelessdeity.realitytearpunchbig": {
+    "sounds": ["namelessdeity/realitytearpunchbig"]
+  },
+  "namelessdeity.scaryflash1": {
+    "sounds": ["namelessdeity/scaryflash1"]
+  },
+  "namelessdeity.scaryflash2": {
+    "sounds": ["namelessdeity/scaryflash2"]
+  },
+  "namelessdeity.scaryflash3": {
+    "sounds": ["namelessdeity/scaryflash3"]
+  },
+  "namelessdeity.scaryflash4": {
+    "sounds": ["namelessdeity/scaryflash4"]
+  },
+  "namelessdeity.scaryflash5": {
+    "sounds": ["namelessdeity/scaryflash5"]
+  },
+  "namelessdeity.scaryflash6": {
+    "sounds": ["namelessdeity/scaryflash6"]
+  },
+  "namelessdeity.screamdistant": {
+    "sounds": ["namelessdeity/screamdistant"]
+  },
+  "namelessdeity.screamdistorted1": {
+    "sounds": ["namelessdeity/screamdistorted1"]
+  },
+  "namelessdeity.screamdistorted2": {
+    "sounds": ["namelessdeity/screamdistorted2"]
+  },
+  "namelessdeity.screamlong": {
+    "sounds": ["namelessdeity/screamlong"]
+  },
+  "namelessdeity.screamloop": {
+    "sounds": ["namelessdeity/screamloop"]
+  },
+  "namelessdeity.screamloopstart": {
+    "sounds": ["namelessdeity/screamloopstart"]
+  },
+  "namelessdeity.screamshort": {
+    "sounds": ["namelessdeity/screamshort"]
+  },
+  "namelessdeity.screentear": {
+    "sounds": ["namelessdeity/screentear"]
+  },
+  "namelessdeity.slicetelegraph": {
+    "sounds": ["namelessdeity/slicetelegraph"]
+  },
+  "namelessdeity.standinginlight": {
+    "sounds": ["namelessdeity/standinginlight"]
+  },
+  "namelessdeity.starconvergence": {
+    "sounds": ["namelessdeity/starconvergence"]
+  },
+  "namelessdeity.starconvergencefast": {
+    "sounds": ["namelessdeity/starconvergencefast"]
+  },
+  "namelessdeity.starcrush": {
+    "sounds": ["namelessdeity/starcrush"]
+  },
+  "namelessdeity.starrecede": {
+    "sounds": ["namelessdeity/starrecede"]
+  },
+  "namelessdeity.suddenmovement": {
+    "sounds": ["namelessdeity/suddenmovement"]
+  },
+  "namelessdeity.sunbeamshoot": {
+    "sounds": ["namelessdeity/sunbeamshoot"]
+  },
+  "namelessdeity.sunfireballshootsound": {
+    "sounds": ["namelessdeity/sunfireballshootsound"]
+  },
+  "namelessdeity.sunfireballshootsoundreversed": {
+    "sounds": ["namelessdeity/sunfireballshootsoundreversed"]
+  },
+  "namelessdeity.supernova": {
+    "sounds": ["namelessdeity/supernova"]
+  },
+  "namelessdeity.swordslash": {
+    "sounds": ["namelessdeity/swordslash"]
+  },
+  "namelessdeity.teethbite": {
+    "sounds": ["namelessdeity/teethbite"]
+  },
+  "namelessdeity.windmovementloop": {
+    "sounds": ["namelessdeity/windmovementloop"]
+  },
+  "namelessdeity.wingflap1": {
+    "sounds": ["namelessdeity/wingflap1"]
+  },
+  "namelessdeity.wingflap2": {
+    "sounds": ["namelessdeity/wingflap2"]
+  },
+  "namelessdeity.wingflap3": {
+    "sounds": ["namelessdeity/wingflap3"]
+  },
+  "namelessdeity.wingflap4": {
+    "sounds": ["namelessdeity/wingflap4"]
   }
 }
