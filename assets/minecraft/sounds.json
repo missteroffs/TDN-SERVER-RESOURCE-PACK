@@ -771,14 +771,8 @@
   "domain.expansion": {
     "sounds": ["domain/expansion"]
   },
-  "domain.aina": {
-    "sounds": ["domain/aina"]
-  },
   "domain.aina0_2": {
     "sounds": ["domain/aina0_2"]
-  },
-  "dreamscape.tranquility": {
-    "sounds": ["dreamscape/tranquility"]
   },
   "ost.abyss": {
     "sounds": ["ost/abyss"]
@@ -906,11 +900,11 @@
   "sfx.electricbeam": {
     "sounds": ["sfx/electricbeam"]
   },
-  "ost.theredmist": {
-    "sounds": ["ost/theredmist"]
+  "ost.itdontsendhere": {
+    "sounds": ["ost/itdontsendhere"]
   },
-  "ost.firstclassmage": {
-    "sounds": ["ost/firstclassmage"]
+  "ost.theonlythings": {
+    "sounds": ["ost/theonlythings"]
   },
   "ost.readyyourweapons": {
     "sounds": ["ost/readyyourweapons"]
@@ -924,8 +918,8 @@
   "ost.draedontalk": {
     "sounds": ["ost/draedontalk"]
   },
-   "ost.zoltraak": {
-    "sounds": ["ost/zoltraak"]
+   "ost.findyourflame": {
+    "sounds": ["ost/findyourflame"]
   },
   "sfx.startup_charge": {
     "sounds": ["sfx/startup_charge"]
@@ -1050,8 +1044,8 @@
   "meme.flashbang" : {
     "sounds": ["meme/flashbang"]
   },
-  "ost.sea" : {
-    "sounds": ["ost/sea"]
+  "ost.collapse" : {
+    "sounds": ["ost/collapse"]
   },
   "namelessdeity.appear": {
   "sounds": ["namelessdeity/appear"]
@@ -1403,5 +1397,26 @@
   },
   "ost.namelessdeity": {
     "sounds": ["ost/namelessdeity"]
+  },
+  "sfx.arise": {
+    "sounds": ["sfx/arise"]
+  },
+  "sfx.holy_ray": {
+    "sounds": ["sfx/holy_ray"]
+  },
+  "sfx.impact1": {
+    "sounds": ["sfx/impact1"]
+  },
+  "sfx.kaiwarcry": {
+    "sounds": ["sfx/kaiwarcry"]
+  },
+  "sfx.letsdances": {
+    "sounds": ["sfx/letsdances"]
+  },
+  "ost.withoutyou": {
+    "sounds": ["ost/withoutyou"]
+  },
+  "ost.wolf_rage": {
+    "sounds": ["ost/wolf_rage"]
   }
 }

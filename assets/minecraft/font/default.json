@@ -57,6 +57,20 @@
          "chars": ["\ue008"]
       },
       {
+         "type": "bitmap",
+         "file": "minecraft:shocked.png",
+         "ascent": 80,
+         "height": 80,
+         "chars": ["\ue009"]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:trynotto.png",
+         "ascent": 80,
+         "height": 80,
+         "chars": ["\ue010"]
+      },
+      {
             "type":"bitmap","file":"minecraft:font\/face_smiling.png",
             "ascent": 7,
             "height":8,
