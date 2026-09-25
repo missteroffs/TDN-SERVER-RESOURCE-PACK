@@ -158,6 +158,30 @@
         {
         "when": "singurarity",
         "model": { "type": "model", "model": "item/singurarity" }
+        },
+        {
+        "when": "onkiri",
+        "model": { "type": "model", "model": "item/onkiri" }
+        },
+        {
+        "when": "neutronglaive",
+        "model": { "type": "model", "model": "item/neutronglaive" }
+        },
+        {
+        "when": "neutronscythe",
+        "model": { "type": "model", "model": "item/neutronscythe" }
+        },
+        {
+        "when": "neutronwand",
+        "model": { "type": "model", "model": "item/neutronwand" }
+        },
+        {
+        "when": "ancientstormgoddessspear",
+        "model": { "type": "model", "model": "item/ancientstormgoddessspear" }
+        },
+        {
+        "when": "stormgoddessspear",
+        "model": { "type": "model", "model": "item/stormgoddessspear" }
         }
      ]
   }

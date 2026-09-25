@@ -1,0 +1,42 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/ancientstormgoddessspear"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50, 90, 0],
+			"translation": [0, 8.5, 1.75],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [50, -90, 0],
+			"translation": [0, 8.5, 1.75],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [40, 90, 0],
+			"translation": [3.75, 4.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [40, -90, 0],
+			"translation": [3.75, 4.25, 0]
+		},
+		"ground": {
+			"translation": [0, 9.5, 0],
+			"scale": [2, 2, 1]
+		},
+		"head": {
+			"rotation": [0, 180, -92],
+			"translation": [0, -13.75, 3.25],
+			"scale": [3, 3, 1]
+		},
+		"fixed": {
+			"rotation": [44.75, -90, 0],
+			"translation": [0, 0.5, -29.5],
+			"scale": [4, 4, 1]
+		}
+	}
+}

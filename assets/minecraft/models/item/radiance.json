@@ -1,6 +1,8 @@
-﻿{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/radiance"
-  }
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/radiance"
+	}
 }

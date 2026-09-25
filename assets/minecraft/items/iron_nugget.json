@@ -1144,7 +1144,83 @@
       {
         "when": "whitewine",
         "model": {"type": "model", "model": "item/whitewine"}
-      }
+      },
+      {
+        "when": "arcanethroneofeternity",
+        "model": { "type": "model", "model": "item/arcanethroneofeternity" }
+        },
+        {
+        "when": "emblemofdread",
+        "model": { "type": "model", "model": "item/emblemofdread" }
+        },
+        {
+        "when": "eyeofsingularity",
+        "model": { "type": "model", "model": "item/eyeofsingularity" }
+        },
+        {
+        "when": "neutronstaringot",
+        "model": { "type": "model", "model": "item/neutronstaringot" }
+        },
+        {
+        "when": "souloffrightex",
+        "model": { "type": "model", "model": "item/souloffrightex" }
+        },
+        {
+        "when": "soulofmightex",
+        "model": { "type": "model", "model": "item/soulofmightex" }
+        },
+        {
+        "when": "soulofsightex",
+        "model": { "type": "model", "model": "item/soulofsightex" }
+        },
+        {
+        "when": "auricbar_charged",
+        "model": { "type": "model", "model": "item/auricbar_charged" }
+        },
+        {
+        "when": "calamity",
+        "model": { "type": "model", "model": "item/calamity" }
+        },
+        {
+        "when": "chaliceofthebloodgod",
+        "model": { "type": "model", "model": "item/chaliceofthebloodgod" }
+        },
+        {
+        "when": "darksunfragment",
+        "model": { "type": "model", "model": "item/darksunfragment" }
+        },
+        {
+        "when": "darksunring",
+        "model": { "type": "model", "model": "item/darksunring" }
+        },
+        {
+        "when": "dynamostemcells",
+        "model": { "type": "model", "model": "item/dynamostemcells" }
+        },
+        {
+        "when": "endothermicenergy",
+        "model": { "type": "model", "model": "item/endothermicenergy" }
+        },
+        {
+        "when": "heartoftheelements",
+        "model": { "type": "model", "model": "item/heartoftheelements" }
+        },
+        {
+        "when": "heartoftheelements",
+        "model": { "type": "model", "model": "item/heartoftheelements" }
+        },
+        {
+        "when": "nightmarefuel",
+        "model": { "type": "model", "model": "item/nightmarefuel" }
+        },
+        {
+        "when": "ruinoussoul",
+        "model": { "type": "model", "model": "item/ruinoussoul" }
+        },
+        {
+        "when": "warbanneroftherighteous",
+        "model": { "type": "model", "model": "item/warbanneroftherighteous" }
+        }
      ]
   }
 }

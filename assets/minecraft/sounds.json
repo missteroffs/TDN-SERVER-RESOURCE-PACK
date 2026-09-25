@@ -1418,5 +1418,20 @@
   },
   "ost.wolf_rage": {
     "sounds": ["ost/wolf_rage"]
+  },
+  "sfx.death_in_bloom": {
+    "sounds": ["sfx/death_in_bloom"]
+  },
+  "sfx.death_in_bloom_firings": {
+    "sounds": ["sfx/death_in_bloom_firings"]
+  },
+  "sfx.beacon_fake_spawning": {
+    "sounds": ["sfx/beacon_fake_spawning"]
+  },
+  "sfx.beacon_spawning": {
+    "sounds": ["sfx/beacon_spawning"]
+  },
+  "sfx.cutter_impacts": {
+    "sounds": ["sfx/cutter_impacts"]
   }
 }
