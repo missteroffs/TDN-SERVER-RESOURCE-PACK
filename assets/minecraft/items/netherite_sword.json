@@ -160,8 +160,8 @@
         "model": { "type": "model", "model": "item/singurarity" }
         },
         {
-        "when": "onkiri",
-        "model": { "type": "model", "model": "item/onkiri" }
+        "when": "onikiri",
+        "model": { "type": "model", "model": "item/onikiri" }
         },
         {
         "when": "neutronglaive",
