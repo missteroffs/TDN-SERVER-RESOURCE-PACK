@@ -71,6 +71,27 @@
          "chars": ["\ue010"]
       },
       {
+         "type": "bitmap",
+         "file": "minecraft:proveit.png",
+         "ascent": 80,
+         "height": 80,
+         "chars": ["\ue011"]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:dead.png",
+         "ascent": 80,
+         "height": 80,
+         "chars": ["\ue012"]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:shhh.png",
+         "ascent": 80,
+         "height": 80,
+         "chars": ["\ue013"]
+      },
+      {
             "type":"bitmap","file":"minecraft:font\/face_smiling.png",
             "ascent": 7,
             "height":8,
