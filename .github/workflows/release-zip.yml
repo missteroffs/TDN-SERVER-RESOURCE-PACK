@@ -2,6 +2,8 @@ name: Auto Release ZIP
 on:
   push:
     branches: [ main ]
+permissions:
+  contents: write
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -13,10 +15,20 @@ jobs:
 
       - name: Create zip
         run: |
-          zip -r project.zip ./* -x ".git/*" ".github/*" ".gitattributes"
+          rm -f project.zip
+          zip -r project.zip \
+            assets \
+            __MACOSX \
+            1_21_2 \
+            1_21_6 \
+            26_1 \
+            26_2 \
+            26_3 \
+            pack.mcmeta \
+            pack.png
 
       - name: Create / update release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
           name: Latest
